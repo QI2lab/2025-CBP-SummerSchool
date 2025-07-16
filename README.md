@@ -3,13 +3,13 @@ Welcome to Arizona State University Center for Biological Physics Summer School 
 
 Below is the GitHub repository with the course schedule and links to Jupyter Notebooks plus other files we will use during the course.
 
-Authors: Douglas Shepherd
+Authors: Douglas Shepherd 
 Some materials adapted from: [uqbio2024 Summer School](https://github.com/MunskyGroup/uqbio2024)
 
 
-[Course Materials](#course-materials)
-[Setting up Google Colab](#setting-up-google-colab)
-[Getting started with GitHub](#setting-up-google-colab)
+[Course Materials](#course-materials) 
+[Setting up Google Colab](#setting-up-google-colab) 
+[Getting started with GitHub](#setting-up-google-colab) 
 [Licensing](#licensing)
 
 

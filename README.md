@@ -4,11 +4,10 @@ Welcome to Arizona State University Center for Biological Physics Summer School 
 Below is the GitHub repository with the course schedule and links to Jupyter Notebooks plus other files we will use during the course.
 
 Authors: Douglas Shepherd  
-Some materials adapted from: [uqbio2024 Summer School](https://github.com/MunskyGroup/uqbio2024)
+Materials adapted from: [uqbio2024 Summer School](https://github.com/MunskyGroup/uqbio2024)
 
 [Course Materials](#course-materials)  
 [Setting up Google Colab](#setting-up-google-colab)  
-[Getting started with GitHub](#setting-up-google-colab)  
 [Licensing](#licensing)  
 
 ## Course Materials
@@ -18,7 +17,7 @@ Below are the course materials for the 2025 CBP Summer School.  Please pull to r
 ### Module 1: Getting started with numerical simulations and scientific computing in Python.
 | Date              | Description | Links to Notebooks(s)
 | :---------------- | :------: | ----: |
-| August 4th, 2025  | Google Colab introduction   | [Module 1A ➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) |
+| August 4th, 2025  | Google Colab and Python introduction   | [Module 1A ➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) |
 | August 4th, 2025  | Python basics and data types   | [Module 1B ➡️](./Module1-PreliminaryPython/M1B_Packages_and_File_Management.ipynb) |
 | August 4th, 2025  | Loops, ranges, functions   | [Module 1C ➡️](./Module1-PreliminaryPython/M1C_Python_Loops_and_Functions.ipynb) |
 | August 4th, 2025  | Packages, classes & modules, file management basics | [Module 1D ➡️](./Module1-PreliminaryPython/M1D_NumPy_and_Linear_Algebra.ipynb) |
@@ -41,21 +40,21 @@ Below are the course materials for the 2025 CBP Summer School.  Please pull to r
 | August 8th, 2025  | Stochastic simulation   | [Module 3B ➡️](./Module3-ModelingBiochemicalReactions/M3B_Stochastic_Simulation_Algorithm.ipynb) |
 | August 11th, 2025  | Chemical Master Equations   | [Module 3C ➡️](./Module3-ModelingBiochemicalReactions/M3C_Chemical_Master_Equation.ipynb) |
 
-### Module 4: Computational modeling: Bayesian approaches
+### Module 4: Modeling bacteria cell division
 | Date              | Description | Links to Notebooks(s)
 | :---------------- | :------: | ----: |
-| August 11th, 2025  | Bayesian Thinking   | [Module 4A ➡️](./Module4-MCMC/M4A_Bayesian_Thinking.ipynb) |
-| August 12th, 2025  | Markov Chain Monte Carlo   | [Module 4B ➡️](./Module4-MCMC/M4B_Markov_Chain_Monte_Carlo.ipynb)  |
+| August 12th, 2025  | Continuous models of bacteria populations   | [Module 4A ➡️](./Module4-BacteriaGrowth/M4A_Exponential_Growth.ipynb) |
+| August 12th, 2025  | Comparing models to experiments for bacteria populations   | [Module 4B ➡️](./Module4-BacteriaGrowth/M4B_Determing_Growth_rate.ipynb) |
+| August 13th, 2025  | Stochastic models of bacteria populations   | [Module 4C ➡️](./Module4-BacteriaGrowth/M4B_Stochastic_Modeling_Of_Growth.ipynb) |
 
-### Module 5: Modeling bacteria cell division
+### Module 5 (Optional): Computational modeling: Bayesian approaches
 | Date              | Description | Links to Notebooks(s)
 | :---------------- | :------: | ----: |
-| August 12th, 2025  | Continuous models of bacteria populations   | |
-| August 13th, 2025  | Stochastic models of bacteria populations   |  |
+| Optional  | Bayesian Thinking   | [Module 4A ➡️](./Module5-MCMC/M5A_Bayesian_Thinking.ipynb) |
+| Optional  | Markov Chain Monte Carlo   | [Module 4B ➡️](./Module5-MCMC/M5B_Markov_Chain_Monte_Carlo.ipynb)  |
 
 
 ## Setting up Google Colab
-
-## Getting started with GitHub
+[Google colab for education](https://research.google.com/colaboratory/faq.html#edu-faq-heading)
 
 ## Licensing

@@ -6,9 +6,11 @@ Below is the GitHub repository with the course schedule and links to Jupyter Not
 Authors: Douglas Shepherd  
 Materials adapted from: [uqbio2024 Summer School](https://github.com/MunskyGroup/uqbio2024)
 
-[Course Materials](#course-materials)  
 [Setting up Google Colab](#setting-up-google-colab)  
-[Licensing](#licensing)  
+[Course Materials](#course-materials)  
+
+## Setting up Google Colab
+Before the summer school begins, please make sure you have an active account with [Google Colaboratory](https://colab.google/). There is a frequently asked questions for signing up here: [Google colab for education](https://research.google.com/colaboratory/faq.html#edu-faq-heading)
 
 ## Course Materials
 
@@ -52,9 +54,3 @@ Below are the course materials for the 2025 CBP Summer School.  Please pull to r
 | :---------------- | :------: | ----: |
 | Optional  | Bayesian Thinking   | [Module 5A ➡️](./Module5-MCMC/M5A_Bayesian_Thinking.ipynb) |
 | Optional  | Markov Chain Monte Carlo   | [Module 5B ➡️](./Module5-MCMC/M5B_Markov_Chain_Monte_Carlo.ipynb)  |
-
-
-## Setting up Google Colab
-[Google colab for education](https://research.google.com/colaboratory/faq.html#edu-faq-heading)
-
-## Licensing

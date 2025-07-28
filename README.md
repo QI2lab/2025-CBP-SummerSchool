@@ -50,8 +50,8 @@ Below are the course materials for the 2025 CBP Summer School.  Please pull to r
 ### Module 5 (Optional): Computational modeling: Bayesian approaches
 | Date              | Description | Links to Notebooks(s)
 | :---------------- | :------: | ----: |
-| Optional  | Bayesian Thinking   | [Module 4A ➡️](./Module5-MCMC/M5A_Bayesian_Thinking.ipynb) |
-| Optional  | Markov Chain Monte Carlo   | [Module 4B ➡️](./Module5-MCMC/M5B_Markov_Chain_Monte_Carlo.ipynb)  |
+| Optional  | Bayesian Thinking   | [Module 5A ➡️](./Module5-MCMC/M5A_Bayesian_Thinking.ipynb) |
+| Optional  | Markov Chain Monte Carlo   | [Module 5B ➡️](./Module5-MCMC/M5B_Markov_Chain_Monte_Carlo.ipynb)  |
 
 
 ## Setting up Google Colab

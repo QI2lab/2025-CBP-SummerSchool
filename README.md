@@ -53,7 +53,8 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 | Date              | Description | Links to Notebooks(s)
 | :---------------- | :------: | ----: |
 | August 12th, 2025  | Continuous models of bacteria populations   | [Module 4A ➡️](./Module4-BacteriaGrowth/M4A_Exponential_Growth.ipynb) |
-| August 12th, 2025  | Comparing models to experiments for bacteria populations   | [Module 4B ➡️](./Module4-BacteriaGrowth/M4B_Determing_Growth_rate.ipynb) |
+| August 12th, 2025  | Comparing models to experiments for bacteria populations   | [Module 4B ➡️](./Module4-BacteriaGrowth/M4B_Determining_Growth_Rate.ipynb) |
+Module4-BacteriaGrowth\M4B_Determining_Growth_Rate.ipynb
 | August 13th, 2025  | Stochastic models of bacteria populations   | [Module 4C ➡️](./Module4-BacteriaGrowth/M4B_Stochastic_Modeling_Of_Growth.ipynb) |
 
 ### Module 5 (Optional): Computational modeling: Bayesian approaches

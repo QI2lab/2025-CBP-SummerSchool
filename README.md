@@ -6,7 +6,8 @@ Below is the GitHub repository with the course schedule and links to Jupyter Not
 Authors: Douglas Shepherd  
 Materials adapted from: [uqbio2024 Summer School](https://github.com/MunskyGroup/uqbio2024) and [CSU BIOM 480A5](https://github.com/CSUBIOM/CompStatBioeng).
 
-[Summer school location](#school-location)
+## Overview  
+[Summer school location](#school-location)  
 [Setting up Google Colab](#setting-up-google-colab)  
 [Course Materials](#course-materials)  
 

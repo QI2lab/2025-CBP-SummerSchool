@@ -11,7 +11,7 @@ Materials adapted from: [uqbio2024 Summer School](https://github.com/MunskyGroup
 [Course Materials](#course-materials)  
 
 ## Summer school location
-The summer school will be held in Bateman Physical Sciences Building H (PSH) Room 563. A map to the school is found [here](./BIOM480A5/Figures/CBP Summer School Directions_2025.pdf)
+The summer school will be held in Bateman Physical Sciences Building H (PSH) Room 563. A map to the school is found [here](./BIOM480A5/Figures/map.pdf)
 
 ## Setting up Google Colab
 Before the summer school begins, please make sure you have an active Google account so that you can access [Google Colaboratory](https://colab.google/). You do not need the "pro" account for the summer school. If you do not have a Google account, you will need to make one for the school.

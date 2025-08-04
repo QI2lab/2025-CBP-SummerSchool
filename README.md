@@ -27,6 +27,7 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 | August 4th, 2025  | Google Colab and Python introduction   | [Module 1A ➡️](./Module1-PreliminaryPython/M1A_Intro_to_Python.ipynb) |
 | August 4th, 2025  | Python basics and data types   | [Module 1B ➡️](./Module1-PreliminaryPython/M1B_Packages_and_File_Management.ipynb) |
 | August 4th, 2025  | Loops, ranges, functions   | [Module 1C ➡️](./Module1-PreliminaryPython/M1C_Python_Loops_and_Functions.ipynb) |
+| August 4th, 2025  | Loops and functions practice   | [Module 1C pratice ➡️](./Module1-PreliminaryPython/inClassReview_M1B_Python_Loops_and_Functions.ipynb) |
 | August 5th, 2025  | Numpy and linear algebra review | [Module 1D ➡️](./Module1-PreliminaryPython/M1D_NumPy_and_Linear_Algebra.ipynb) |
 | August 5th, 2025  | Eigenvalues, vectors, decompositions, and transformations | [Module 1E ➡️](./Module1-PreliminaryPython/M1E_Eigen_Values_Vectors_Decompositions_and_Transformations.ipynb) |
 | August 5th, 2025  | Visualing data using matplotlib and seaborn   | [Module 1F ➡️](./Module1-PreliminaryPython/M1F_Matplotlib.ipynb) |

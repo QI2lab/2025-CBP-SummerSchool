@@ -40,9 +40,9 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 | August 6th, 2025  | A primer on the normal distribution | [Example 2 ➡️](https://github.com/PessoaP/blog/blob/master/Normal/normal.ipynb) |
 | August 6th, 2025  | Likelihooods   | [Module 2B ➡️](./Module2-Statistics/M2B_LikelihoodFunctions_Estimation.ipynb) |
 | August 6th, 2025  | Signficance testing   | [Module 2C ➡️](./Module2-Statistics/M2C_HypothesisTesting_Significance_Pvalues.ipynb) |
-| August 6th, 2025  | Statistics practice  (group work)  | [Module 2D ➡️](./Module2-Statistics/M2Ca_practice.ipynb) |
-| Optional  | Machine Learning and Regression   | [Module 2E ➡️](./Module2-Statistics/M2D_Intro_to_ML_and_Basics_of_Regression.ipynb) |
-| Optional  | Classification  | [Module 2F ➡️](./Module2-Statistics/M2E_Basics_of_Classification.ipynb) |
+| August 6th, 2025  | Practice exercises  (group work)  | [Modules 2A-C Practice ➡️](./Module2-Statistics/M2Ca_Practice.ipynb) |
+| Optional  | Machine Learning and Regression   | [Module 2D ➡️](./Module2-Statistics/M2D_Intro_to_ML_and_Basics_of_Regression.ipynb) |
+| Optional  | Classification  | [Module 2E ➡️](./Module2-Statistics/M2E_Basics_of_Classification.ipynb) |
 
 ### Module 3: Computational modeling: from continuous to stochastic models
 | Date              | Description | Links to Notebooks(s)

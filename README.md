@@ -48,9 +48,9 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 | Date              | Description | Links to Notebooks(s)
 | :---------------- | :------: | ----: |
 | August 7th, 2025  | Stoichometries, Propensity functions, and ODE models | [Module 3A ➡️](./Module3-ModelingBiochemicalReactions/M3A_Stoichiometries_Propensities_and_ODE_Models.ipynb) |
-| August 7th, 2025  | Practice exercises (group work) | [Module 3A Practice ➡️](./Module3-ModelingBiochemicalReactions/M3Aa_Practice.ipynb) |
+| August 7th, 2025  | Practice exercises (group work) | [Module 3A practice ➡️](./Module3-ModelingBiochemicalReactions/M3Aa_Practice.ipynb) |
 | August 7th, 2025  | Stochastic simulation   | [Module 3B ➡️](./Module3-ModelingBiochemicalReactions/M3B_Stochastic_Simulation_Algorithm.ipynb) |
-| August 7th, 2025  | Practice exercises (group work)   | [Module 3B pratice ➡️](./Module3-ModelingBiochemicalReactions/M3Ba_Practice.ipynb) |
+| August 7th, 2025  | Practice exercises (group work)   | [Module 3B practice ➡️](./Module3-ModelingBiochemicalReactions/M3Ba_Practice.ipynb) |
 | August 11th, 2025  | Chemical Master Equations   | [Module 3C ➡️](./Module3-ModelingBiochemicalReactions/M3C_Chemical_Master_Equation.ipynb) |
 
 ### Module 4: Modeling bacteria cell division

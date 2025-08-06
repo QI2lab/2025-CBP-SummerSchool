@@ -40,7 +40,7 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 | August 6th, 2025  | A primer on the normal distribution | [Example 2 ➡️](https://github.com/PessoaP/blog/blob/master/Normal/normal.ipynb) |
 | August 6th, 2025  | Likelihooods   | [Module 2B ➡️](./Module2-Statistics/M2B_LikelihoodFunctions_Estimation.ipynb) |
 | August 6th, 2025  | Signficance testing   | [Module 2C ➡️](./Module2-Statistics/M2C_HypothesisTesting_Significance_Pvalues.ipynb) |
-| August 6th, 2025  | Practice exercises  (group work)  | [Modules 2A-C Practice ➡️](./Module2-Statistics/M2Ca_Practice.ipynb) |
+| August 6th-7th, 2025  | Practice exercises  (group work)  | [Modules 2A-C Practice ➡️](./Module2-Statistics/M2Ca_Practice.ipynb) |
 | Optional  | Machine Learning and Regression   | [Module 2D ➡️](./Module2-Statistics/M2D_Intro_to_ML_and_Basics_of_Regression.ipynb) |
 | Optional  | Classification  | [Module 2E ➡️](./Module2-Statistics/M2E_Basics_of_Classification.ipynb) |
 
@@ -49,8 +49,8 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 | :---------------- | :------: | ----: |
 | August 7th, 2025  | Stoichometries, Propensity functions, and ODE models | [Module 3A ➡️](./Module3-ModelingBiochemicalReactions/M3A_Stoichiometries_Propensities_and_ODE_Models.ipynb) |
 | August 7th, 2025  | Practice exercises (group work) | [Module 3A practice ➡️](./Module3-ModelingBiochemicalReactions/M3Aa_Practice.ipynb) |
-| August 7th, 2025  | Stochastic simulation   | [Module 3B ➡️](./Module3-ModelingBiochemicalReactions/M3B_Stochastic_Simulation_Algorithm.ipynb) |
-| August 7th, 2025  | Practice exercises (group work)   | [Module 3B practice ➡️](./Module3-ModelingBiochemicalReactions/M3Ba_Practice.ipynb) |
+| August 8th, 2025  | Stochastic simulation   | [Module 3B ➡️](./Module3-ModelingBiochemicalReactions/M3B_Stochastic_Simulation_Algorithm.ipynb) |
+| August 8th, 2025  | Practice exercises (group work)   | [Module 3B practice ➡️](./Module3-ModelingBiochemicalReactions/M3Ba_Practice.ipynb) |
 | August 11th, 2025  | Chemical Master Equations   | [Module 3C ➡️](./Module3-ModelingBiochemicalReactions/M3C_Chemical_Master_Equation.ipynb) |
 
 ### Module 4: Modeling bacteria cell division

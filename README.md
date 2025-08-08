@@ -36,6 +36,7 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 ### Module 2: Multivariable statistics
 | Date              | Description | Links to Notebooks(s)
 | :---------------- | :------: | ----: |
+| August 6th, 2025  | Probability Puzzle slides   | [Module 2 lecture ➡️](https://github.com/PessoaP/blog/blob/master/CBP_Summer_slides.pdf) |
 | August 6th, 2025  | Distributions   | [Module 2A ➡️](./Module2-Statistics/M2A_Distributions_Sampling_Expectations_and_SummaryStatistics.ipynb) |
 | August 6th, 2025  | A primer on the normal distribution | [Example 2 ➡️](https://github.com/PessoaP/blog/blob/master/Normal/normal.ipynb) |
 | August 6th, 2025  | Likelihooods   | [Module 2B ➡️](./Module2-Statistics/M2B_LikelihoodFunctions_Estimation.ipynb) |

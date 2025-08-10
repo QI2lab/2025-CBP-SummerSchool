@@ -54,6 +54,7 @@ Below are the course materials for the 2025 CBP Summer School.  Please refresh t
 | August 7th, 2025  | Practice exercises (group work)   | [Module 3B practice ➡️](./Module3-ModelingBiochemicalReactions/M3Ba_Practice.ipynb) |
 | August 8th & 11th, 2025  | Chemical Master Equations   | [Module 3C ➡️](./Module3-ModelingBiochemicalReactions/M3C_Chemical_Master_Equation.ipynb) |
 | August 8th & 11th, 2025  | Practice exercises (group work)   | [Module 3C practice ➡️](./Module3-ModelingBiochemicalReactions/M3Ca_Practice.ipynb) |
+| August 11th, 2025  | Fitting Models to Data   | [Module 3D ➡️](./Module3-ModelingBiochemicalReactions/M3D_Fitting_Models_to_Data.ipynb) |
 
 ### Module 4: Modeling bacteria cell division
 | Date              | Description | Links to Notebooks(s)
